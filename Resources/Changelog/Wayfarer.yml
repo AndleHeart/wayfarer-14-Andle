@@ -4964,3 +4964,38 @@ Entries:
   id: 7075
   time: '2026-07-02T02:25:05.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1266
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added some small additions to CGP lathe.
+    - type: Add
+      message: Added mk32-m universal baseline to CGP loadouts.
+    - type: Add
+      message: Added various mix and match options to CGP loadouts.
+    - type: Add
+      message: Added sprites for redone CGP command headsets.
+    - type: Add
+      message: Added Tiny stats to CGP clothes.
+    - type: Add
+      message: Added explosion protections to CGP bags.
+    - type: Add
+      message: Added new CGP ERT styed backpack.
+    - type: Add
+      message: Added CGP fab to CGP outpost.
+    - type: Add
+      message: Added staff uniform printer to CGP outpost.
+    - type: Add
+      message: Added material silo, more rechargers to CGP outpost.
+    - type: Tweak
+      message: Redone CGP outpost decals and decorations.
+    - type: Tweak
+      message: Command keys adjusted for CGP command.
+    - type: Tweak
+      message: Adjusted CGP uplink starting currencies.
+    - type: Remove
+      message: Removed Plasteel Arming sword form CGP uplink.
+    - type: Fix
+      message: Fixed CGP longcoat category issue for loadouts!
+  id: 7076
+  time: '2026-07-02T02:26:02.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1267
