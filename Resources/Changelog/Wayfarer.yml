@@ -5030,3 +5030,16 @@ Entries:
   id: 7079
   time: '2026-07-02T03:12:33.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1257
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added Welding and Flash protection to CE and RD hardsuit helmets.
+    - type: Add
+      message: Insulation protection to CE hardsuit.
+    - type: Tweak
+      message: >-
+        Reduced movement penalty on Fire suits as well as
+        engineering/atmos/CE/RD hardsuits.
+  id: 7080
+  time: '2026-07-02T03:13:03.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1269
