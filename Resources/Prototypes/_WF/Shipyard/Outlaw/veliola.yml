@@ -5,29 +5,28 @@
 # Shuttle Notes:
 #
 - type: vessel
-  id: Velios
-  parent: BaseVessel
-  name: WLV-Velios
+  id: Veliola
+  parent: BaseVesselAntag
+  name: WLV-Veliola
   description: A medical vessel designed for multifunction capabilities. Includes a medbay, cryogenics setup, surgery room, and a rescue supply room. While large in size and reinforced with plastitanium walls, the thrusters still provide enough speed for rapid response to medical calls.
-  price: 45000 # Appraises at 50721 but capabilities are good, + it's replacing the shirokami (112000). # Wayfarer: Reduced as many things were taken out.
+  price: 45000 # 251 tiles * 50 + 28347 = ~41000 So we round it up to 45000 for a nice even number.
   category: Medium
-  group: Medical
-  shuttlePath: /Maps/_Mono/Shuttles/velios.yml
-  guidebookPage: null
+  group: BlackMarket
+  shuttlePath: /Maps/_WF/Shuttles/Outlaw/veliola.yml
+  guidebookPage: ShipyardVeliola
   class:
-  - Medical
-  - Chemistry
+  - Pirate
   engine:
   - AME
 
 - type: gameMap
-  id: Velios
-  mapName: 'WLV-Velios'
-  mapPath: /Maps/_Mono/Shuttles/velios.yml
+  id: Veliola
+  mapName: 'WLV-Veliola'
+  mapPath: /Maps/_WF/Shuttles/Outlaw/veliola.yml
   minPlayers: 0
   stations:
-    Velios:
-      stationProto: StandardFrontierVessel
+    Veliola:
+      stationProto: StandardFrontierAntagVessel
       components:
         - type: StationNameSetup
           mapNameTemplate: 'Velios {1}'
@@ -36,9 +35,4 @@
             prefixCreator: '14'
         - type: StationJobs
           availableJobs:
-            WayfarerInterview: [ 0, 0 ]
-            MedicalER: [ 0, 0 ]
-            #Contractor: [ 0, 0 ]
-            #MdMedic: [ 0, 0 ]
-            #Pilot: [ 0, 0 ]
-            #Mercenary: [ 0, 0 ]
+            NFPirate: [ 0, 0 ]
