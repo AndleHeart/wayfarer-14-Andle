@@ -4950,3 +4950,10 @@ Entries:
   id: 7073
   time: '2026-06-29T05:49:57.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1261
+- author: Cat-With-A-Computer
+  changes:
+    - type: Tweak
+      message: Portable rechargers may now be worn on the back and belt slots.
+  id: 7074
+  time: '2026-07-02T02:24:42.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1265
