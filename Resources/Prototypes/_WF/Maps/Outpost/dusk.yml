@@ -31,10 +31,6 @@
       - type: StationTransit
         routes:
           SpawnPoints: 20
-      - type: StationDeadDrop
-        maxDeadDrops: 8 # big station
-      - type: TradeCrateDestination
-        destinationProto: Trade
       - type: StationJobs
         availableJobs:
           Wayfarer: [ -1, -1 ]
