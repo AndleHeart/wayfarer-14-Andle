@@ -5067,3 +5067,10 @@ Entries:
   id: 7082
   time: '2026-07-02T06:14:50.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1197
+- author: Rellu225
+  changes:
+    - type: Add
+      message: Added DoC joblist at Dusk.
+  id: 7083
+  time: '2026-07-02T16:17:41.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1280
