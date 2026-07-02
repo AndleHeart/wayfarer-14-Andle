@@ -5006,3 +5006,12 @@ Entries:
   id: 7077
   time: '2026-07-02T03:10:57.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1254
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: >-
+        4 Mooring Points to the rim. Small places where you can dock, refuel and
+        rest.
+  id: 7078
+  time: '2026-07-02T03:12:09.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1271
