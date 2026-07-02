@@ -5074,3 +5074,12 @@ Entries:
   id: 7083
   time: '2026-07-02T16:17:41.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1280
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added .45 speed loader boxes into reality. Yaya!
+    - type: Tweak
+      message: Changed CGP uplink .45 speed loaders to speed loader boxes.
+  id: 7084
+  time: '2026-07-02T17:16:28.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1277
