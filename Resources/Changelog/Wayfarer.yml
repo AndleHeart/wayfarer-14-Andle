@@ -4999,3 +4999,10 @@ Entries:
   id: 7076
   time: '2026-07-02T02:26:02.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1267
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added the Veliola outlaw ship!
+  id: 7077
+  time: '2026-07-02T03:10:57.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1254
