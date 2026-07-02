@@ -5015,3 +5015,18 @@ Entries:
   id: 7078
   time: '2026-07-02T03:12:09.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1271
+- author: RoY7x
+  changes:
+    - type: Remove
+      message: >-
+        Derelict McCargo is gone for good (whoops, this should have been gone
+        since the Ominious Geode blew it up)
+    - type: Remove
+      message: >-
+        Tinnia's, Casey's and Grify's are out. Exiting the sector and going out
+        of business.
+    - type: Remove
+      message: Medical Dispatch. Oh no. It aspoloded!
+  id: 7079
+  time: '2026-07-02T03:12:33.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1257
