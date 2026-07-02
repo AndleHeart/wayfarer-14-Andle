@@ -5083,3 +5083,10 @@ Entries:
   id: 7084
   time: '2026-07-02T17:16:28.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1277
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: Changed repeat time of medical alert from 20 to 8 minutes.
+  id: 7085
+  time: '2026-07-02T17:18:24.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1246
