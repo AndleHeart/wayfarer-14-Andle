@@ -5043,3 +5043,18 @@ Entries:
   id: 7080
   time: '2026-07-02T03:13:03.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1269
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added disposable EMAG to deaddrop.
+    - type: Add
+      message: Added advanced jaws to deaddrop.
+    - type: Add
+      message: Added chameleon bundle to deaddrop.
+    - type: Add
+      message: Added 2 telecrystal to deaddrop.
+    - type: Remove
+      message: Removed suits from deaddrop loot.
+  id: 7081
+  time: '2026-07-02T03:14:14.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1274
