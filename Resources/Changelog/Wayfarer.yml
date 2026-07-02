@@ -4957,3 +4957,10 @@ Entries:
   id: 7074
   time: '2026-07-02T02:24:42.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1265
+- author: Cat-With-A-Computer
+  changes:
+    - type: Remove
+      message: Removed double energy sword from the melee weapon pool.
+  id: 7075
+  time: '2026-07-02T02:25:05.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1266
