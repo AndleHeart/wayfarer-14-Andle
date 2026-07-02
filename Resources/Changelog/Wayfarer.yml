@@ -5058,3 +5058,12 @@ Entries:
   id: 7081
   time: '2026-07-02T03:14:14.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1274
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: The Downtown Superstar's AME looks... Right now.
+    - type: Fix
+      message: The Grand Ideals had its thrusters and naming convention fixed.
+  id: 7082
+  time: '2026-07-02T06:14:50.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1197
