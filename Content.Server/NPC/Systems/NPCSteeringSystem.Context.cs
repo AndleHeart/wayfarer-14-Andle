@@ -168,6 +168,7 @@ public sealed partial class NPCSteeringSystem
 
         // Grab the target position, either the next path node or our end goal..
         var targetCoordinates = steering.DirectMove ? steering.Coordinates : GetTargetCoordinates(steering);
+        // End Wizden#38846
 
         if (!targetCoordinates.IsValid(EntityManager))
         {
