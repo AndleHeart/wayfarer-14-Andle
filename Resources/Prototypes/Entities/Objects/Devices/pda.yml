@@ -528,13 +528,15 @@
     accentVColor: "#a23e3e"
   - type: Icon
     state: pda-qm
-  - type: CartridgeLoader
-    preinstalled:
-    - CrewManifestCartridge
-    - NotekeeperCartridge
-    - NanoTaskCartridge
-    - NewsReaderCartridge
-    - AstroNavCartridge
+# Wayfarer start: fix cartridges, should use BasePda now
+#  - type: CartridgeLoader
+#    preinstalled:
+#    - CrewManifestCartridge
+#    - NotekeeperCartridge
+#    - NanoTaskCartridge
+#    - NewsReaderCartridge
+#    - AstroNavCartridge
+# wayfarer end
   - type: BlipCartridge
     defaultPreset: BlipPresetCommand
 
