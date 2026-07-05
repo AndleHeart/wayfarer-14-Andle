@@ -5090,3 +5090,10 @@ Entries:
   id: 7085
   time: '2026-07-02T17:18:24.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1246
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: paper lantern crafting text.
+  id: 7086
+  time: '2026-07-05T20:37:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1300
