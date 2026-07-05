@@ -4,6 +4,4 @@
     - tasks:
         - !type:HTNCompoundTask
           task: N14MeleeCombatCompound
-    - tasks: # Wayfarer - Added Idle
-      - !type:HTNCompoundTask
-        task: IdleCompound
+# Same as the base version, but without idle walking around & about

@@ -72,7 +72,7 @@ public sealed partial class PathfindingSystem
             }
             else if ((request.Flags & PathFlags.Smashing) != 0x0 && end.Data.Damage > 0f)
             {
-                modifier += 30f + end.Data.Damage / 100f; // Wayfarer - Massively increase NavSmash pathfinding cost
+                modifier += 10f + end.Data.Damage / 100f;
             }
             else if (isClimb && (request.Flags & PathFlags.Climbing) != 0x0)
             {
