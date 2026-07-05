@@ -11,10 +11,10 @@
               key: Target
             - !type:TargetInRangePrecondition
               targetKey: Target
-              rangeKey: TurretRange # Wayfarer: RangedRange<TurretRange
+              rangeKey: RangedRange
             - !type:TargetInLOSPrecondition
               targetKey: Target
-              rangeKey: TurretRange # Wayfarer: RangedRange<TurretRange
+              rangeKey: RangedRange
           operator: !type:GunOperator
             targetKey: Target
             requireLOS: true
