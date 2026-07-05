@@ -10,6 +10,9 @@
   id: DepositBlacklist
 
 - type: Tag
+  id: DepositWhitelist
+
+- type: Tag
   id: WFBlueprintOutlaw
 
 - type: Tag
