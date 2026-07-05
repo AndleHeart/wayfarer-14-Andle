@@ -241,14 +241,14 @@
   - type: ProtectedFromStepTriggers
   - type: Climbing
   - type: Tool
-    speedModifier: 3 # 1.5<3 Mono
+    speedModifier: 1.5
     qualities:
       - Prying
     hideQualities: true
   - type: Prying
     pryPowered: true
     force: true
-    speedModifier: 3 # 1.5<3 Mono
+    speedModifier: 1.5
     useSound:
       path: /Audio/Items/crowbar.ogg
   - type: Access
@@ -377,34 +377,28 @@
   id: MobHumanoidHostileAISimpleMelee
   abstract: true
   components:
-  # // Wayfarer - Use new N14HostileCompound preset
+  # // WF - Use new N14HostileCompound preset
   - type: HTN
     rootTask:
-      task: N14HostileCompound # Wayfarer: SimpleHostileCompound<N14HostileCompound
+      task: N14HostileCompound # WF
     blackboard:
-      NavClimb: !type:Bool
-        false
-      NavInteract: !type:Bool
-        true
-      NavPry: !type:Bool
-        true
       NavSmash: !type:Bool
         true
       MeleeRange: !type:Single
         1.5
-  # // Wayfarer
+# // WF
 
 - type: entity
   id: MobHumanoidHostileAISimpleRanged
   abstract: true
   components:
-  # // Wayfarer - Use new N14HostileCompound preset
+  # WF Start
   - type: HTN
     rootTask:
-      task: N14RangedHostileCompound # Wayfarer: SimpleRangedHostileCompound<N14RangedHostileCompound
+      task: N14RangedHostileCompound
     blackboard:
       NavClimb: !type:Bool
-        false
+        true
       NavInteract: !type:Bool
         true
       NavPry: !type:Bool
@@ -413,16 +407,16 @@
         true
       MeleeRange: !type:Single
         1.5
-  # // Wayfarer
+  # WF End
 
 - type: entity
   id: MobHumanoidHostileAIComplex
   abstract: true
   components:
-  # // Wayfarer - Use new N14HostileCompound preset
+  # // WF - Use new N14HostileCompound preset
   - type: HTN
     rootTask:
-      task: N14RangedHostileCompound # Wayfarer: SimpleHumanoidHostileCompound<N14RangedHostileCompound
+      task: N14RangedHostileCompound
     blackboard:
       #NavClimb: !type:Bool # Commented out because it made them trip over tables and it was really funny but they didn't stand up
         #true
@@ -434,8 +428,7 @@
         true
       MeleeRange: !type:Single
         1.5
-  # // Wayfarer
-
+# // WF
 #endregion
 
 #region NPC types

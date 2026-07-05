@@ -62,7 +62,7 @@
             max: 5
   - type: HTN
     rootTask:
-      task: N14TurretCompound # Wayfarer: TurretCompount<N14TurretCompound
+      task: TurretCompound
     blackboard:
       # Wayfarer: Increase Turret Range
       VisionRadius: !type:Single
@@ -150,4 +150,4 @@
   - type: ExtensionCableReceiver
   - type: HTN
     rootTask:
-      task: N14TurretCompound # Wayfarer: TurretCompount<N14TurretCompound
+      task: EnergyTurretCompound

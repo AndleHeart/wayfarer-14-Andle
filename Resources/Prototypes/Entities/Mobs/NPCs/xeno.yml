@@ -10,10 +10,10 @@
   - type: CombatMode
   - type: InputMover
   - type: MobMover
-# // Wayfarer: Use new N14HostileCompound Preset
+# WF Start
   - type: HTN
     rootTask:
-      task: N14HostileCompound # Wayfarer: SimpleHostileCompound:<N14HostileCompound
+      task: N14HostileCompound # WF
     blackboard:
       NavClimb: !type:Bool
         true
@@ -25,7 +25,7 @@
         true
       MeleeRange: !type:Single
         1.5
-# // Wayfarer
+# WF End
   - type: Prying
     pryPowered: true
     force: true
@@ -470,10 +470,10 @@
       gender: male
   - type: InputMover
   - type: MobMover
-  # // Wayfarer: Use new N14HostileCompound Preset
+  # WF Start
   - type: HTN
     rootTask:
-      task: N14HostileCompound # Wayfarer: SimpleHostileCompound:<N14HostileCompound
+      task: N14HostileCompound # WF
     blackboard:
       NavClimb: !type:Bool
         true
@@ -483,7 +483,7 @@
         true
       MeleeRange: !type:Single
         1.5
-  # // Wayfarer
+  # WF End
   - type: NpcFactionMember
     factions:
     - Xeno
@@ -561,16 +561,16 @@
   - type: CombatMode
   - type: InputMover
   - type: MobMover
-  # // Wayfarer: Use new N14HostileCompound Preset
+  # WF Start
   - type: HTN
     rootTask:
-      task: N14HostileCompound # Wayfarer: SimpleHostileCompound:<N14HostileCompound
+      task: N14HostileCompound # WF
     blackboard:
       NavSmash: !type:Bool
         true
       MeleeRange: !type:Single
         1.5
-  # // Wayfarer
+  # WF End
   - type: Reactive
     groups:
       Flammable: [Touch]

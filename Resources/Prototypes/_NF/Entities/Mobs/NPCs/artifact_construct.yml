@@ -13,7 +13,7 @@
         - ArtifactConstruct
     - type: HTN
       rootTask:
-        task: N14HostileCompound # Wayfarer: SimpleHostileCompound<N14HostileCompound
+        task: N14HostileCompound # WF
       blackboard:
         NavClimb: !type:Bool
           true
