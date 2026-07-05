@@ -5124,3 +5124,10 @@ Entries:
   id: 7089
   time: '2026-07-05T20:42:40.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1292
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Cybersun pens work as described again.
+  id: 7090
+  time: '2026-07-05T20:47:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1150
