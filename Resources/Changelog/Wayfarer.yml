@@ -5104,3 +5104,10 @@ Entries:
   id: 7087
   time: '2026-07-05T20:38:15.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1299
+- author: Nnelg
+  changes:
+    - type: Add
+      message: Cards (e.g. CGP Permit Card), stamps, and badges now fit in wallets.
+  id: 7088
+  time: '2026-07-05T20:38:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1295
