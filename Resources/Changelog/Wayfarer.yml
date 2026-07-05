@@ -5131,3 +5131,10 @@ Entries:
   id: 7090
   time: '2026-07-05T20:47:34.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1150
+- author: Khaomi
+  changes:
+    - type: Add
+      message: Added Shadekin
+  id: 7091
+  time: '2026-07-05T20:58:51.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1236
