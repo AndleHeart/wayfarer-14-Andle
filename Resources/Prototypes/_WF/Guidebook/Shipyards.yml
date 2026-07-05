@@ -26,6 +26,7 @@
   - ShipyardBocadillo # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardBodkin # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardBookworm # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
+
   - ShipyardBulker # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardCamper # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardCeres # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
@@ -69,6 +70,7 @@
   - ShipyardPulsar # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardRetort # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardSkipper # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
+  - ShipyardStellaris # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardStringer # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardStronghold # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardSurveyor # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
@@ -94,12 +96,16 @@
   priority: 7
   children:
   - ShipyardAegis # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
+  - ShipyardAnchor # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
+  - ShipyardBehir
   - ShipyardBrigand # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardCharon # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
-  - ShipyardPathfinder # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
-  - ShipyardBehir
-  - ShipyardScryer
+  - ShipyardDove # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
+  - ShipyardDragonfly # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardKobold
+  - ShipyardPathfinder # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
+  - ShipyardScryer
+
 
 - type: guideEntry
   id: MedShipyard
@@ -117,6 +123,7 @@
   - ShipyardSearchlight # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardSpirit # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardStasis # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
+  - ShipyardTyne # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardVitalis # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
 
 - type: guideEntry
@@ -149,6 +156,7 @@
   text: "/ServerInfo/_WF/Guidebook/Shipyard/StaffShipyard.xml"
   priority: 7
   children:
+  - ShipyardBroom # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardHarbormaster # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
   - ShipyardMoppet
 
