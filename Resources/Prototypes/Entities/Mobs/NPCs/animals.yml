@@ -1207,7 +1207,7 @@
     - Passive
   - type: HTN
     rootTask:
-      task: N14HostileCompound # WF
+      task: SimpleHostileCompound
     blackboard:
       NavClimb: !type:Bool
         true
