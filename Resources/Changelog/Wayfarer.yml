@@ -5175,3 +5175,12 @@ Entries:
   id: 7096
   time: '2026-07-05T20:42:21.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1287
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: CGP Buckler's small gyro has been replaced with a default size gyro.
+    - type: Tweak
+      message: CGP Ships now follow standard decal colors.
+  id: 7097
+  time: '2026-07-05T20:45:22.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1286
