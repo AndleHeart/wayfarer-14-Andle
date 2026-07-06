@@ -5147,3 +5147,10 @@ Entries:
   id: 7092
   time: '2026-07-05T21:16:32.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1297
+- author: Luweth
+  changes:
+    - type: Tweak
+      message: Redone Zekke Credits.
+  id: 7093
+  time: '2026-07-05T20:44:50.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1278
