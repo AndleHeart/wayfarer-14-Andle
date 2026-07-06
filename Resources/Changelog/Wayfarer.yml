@@ -5270,3 +5270,12 @@ Entries:
   id: 7103
   time: '2026-07-02T03:13:56.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1273
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: >-
+        Jobs are now reopened if they are limited jobs and the person in that
+        job has been away for longer than two hours.
+  id: 7104
+  time: '2026-07-02T03:13:24.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1270
