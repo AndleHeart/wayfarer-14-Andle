@@ -5184,3 +5184,10 @@ Entries:
   id: 7097
   time: '2026-07-05T20:45:22.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1286
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: upstream ship guides under correct shipyards.
+  id: 7098
+  time: '2026-07-05T20:39:14.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1288
