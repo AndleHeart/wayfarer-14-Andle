@@ -5161,3 +5161,10 @@ Entries:
   id: 7094
   time: '2026-07-05T20:44:32.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1272
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Anomaly infections can no longer gib players, instead dealing damage.
+  id: 7095
+  time: '2026-07-05T20:44:10.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1244
