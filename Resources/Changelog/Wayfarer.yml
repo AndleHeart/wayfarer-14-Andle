@@ -5250,3 +5250,16 @@ Entries:
   id: 7101
   time: '2026-07-05T20:41:36.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1291
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Moved the medical shipyard one room below.
+    - type: Tweak
+      message: Added a public medical bounty redemption pod to that room.
+    - type: Add
+      message: Adds a proper crew monitoring console to the medical break room.
+    - type: Fix
+      message: Fixed a non-POI vendor in dusk.
+  id: 7102
+  time: '2026-07-05T20:40:11.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1281
