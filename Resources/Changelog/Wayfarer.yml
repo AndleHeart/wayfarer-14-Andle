@@ -5200,3 +5200,38 @@ Entries:
   id: 7099
   time: '2026-07-05T20:38:34.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1296
+- author: Luweth
+  changes:
+    - type: Tweak
+      message: Changed all NFSD airlocks to CGP colors!
+    - type: Tweak
+      message: Changed CGP airlocks to variant CGP colors!
+    - type: Tweak
+      message: Changed large NFSD thrusters to CGP colors!
+    - type: Tweak
+      message: Changed CGP thrusters to variant CGP colors!
+    - type: Tweak
+      message: Changed all NFSD racks to CGP colors!
+    - type: Tweak
+      message: Changed all NFSD forms to CGP colors!
+    - type: Tweak
+      message: Changed all NFSD holsters to CGP colors!
+    - type: Tweak
+      message: Changed all NFSD messenger bags to CGP colors!
+    - type: Tweak
+      message: Changed NFSD board to CGP colors!
+    - type: Tweak
+      message: Changed NFSD encryption key to CGP colors!
+    - type: Tweak
+      message: Changed NFSD shipyard to CGP colors!
+    - type: Tweak
+      message: Changed NFSD pouch to CGP colors!
+    - type: Tweak
+      message: Changed NFSD bodycam to CGP!
+    - type: Tweak
+      message: Changed vendor NFSD flashlight for seclite!
+    - type: Tweak
+      message: Changed an NFSD poster to fall in line with CGP!
+  id: 7100
+  time: '2026-07-05T20:39:55.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1285
