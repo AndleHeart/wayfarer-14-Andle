@@ -5263,3 +5263,10 @@ Entries:
   id: 7102
   time: '2026-07-05T20:40:11.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1281
+- author: Luweth
+  changes:
+    - type: Fix
+      message: Fixed dumb crew manifest issue with certain IDs.
+  id: 7103
+  time: '2026-07-02T03:13:56.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1273
