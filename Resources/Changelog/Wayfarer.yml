@@ -5168,3 +5168,10 @@ Entries:
   id: 7095
   time: '2026-07-05T20:44:10.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1244
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added a Vox Buckler variant!
+  id: 7096
+  time: '2026-07-05T20:42:21.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1287
