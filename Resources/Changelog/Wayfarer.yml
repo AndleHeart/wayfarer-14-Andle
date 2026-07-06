@@ -5235,3 +5235,18 @@ Entries:
   id: 7100
   time: '2026-07-05T20:39:55.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1285
+- author: TheSlapper
+  changes:
+    - type: Tweak
+      message: Added character count to the communications console.
+    - type: Tweak
+      message: Alert level announcements can now be given a reason.
+    - type: Tweak
+      message: Alert level announcements above green now repeat every hour.
+    - type: Tweak
+      message: Character limit on communications console has increased to 500.
+    - type: Tweak
+      message: The reason given for an alert now displays on the PDA.
+  id: 7101
+  time: '2026-07-05T20:41:36.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1291
