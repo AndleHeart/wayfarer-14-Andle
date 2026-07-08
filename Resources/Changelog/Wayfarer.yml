@@ -5279,3 +5279,14 @@ Entries:
   id: 7104
   time: '2026-07-02T03:13:24.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1270
+- author: DevArchwave
+  changes:
+    - type: Remove
+      message: Removed all misfits AI changes.
+    - type: Fix
+      message: >-
+        Mobs should no longer remain in an "alive" state after dying, or be able
+        to use abilities after dying.
+  id: 7105
+  time: '2026-07-08T03:55:37.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1301
