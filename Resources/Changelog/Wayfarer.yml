@@ -5310,3 +5310,10 @@ Entries:
   id: 7107
   time: '2026-07-09T02:34:19.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1319
+- author: Possumongus
+  changes:
+    - type: Tweak
+      message: Changed outlaw uplink ammo to be slightly less pricier, slightly better.
+  id: 7108
+  time: '2026-07-09T02:34:54.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1318
