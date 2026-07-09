@@ -3782,7 +3782,7 @@ entities:
       rot: 3.141592653589793 rad
       pos: 4.5,1.5
       parent: 1
-- proto: SMESAdvanced
+- proto: SMESBasic
   entities:
   - uid: 482
     components:
