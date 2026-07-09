@@ -5290,3 +5290,10 @@ Entries:
   id: 7105
   time: '2026-07-08T03:55:37.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1301
+- author: Possumongus
+  changes:
+    - type: Add
+      message: New rule in section D1. read it
+  id: 7106
+  time: '2026-07-09T02:33:26.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1320
