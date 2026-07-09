@@ -5297,3 +5297,16 @@ Entries:
   id: 7106
   time: '2026-07-09T02:33:26.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1320
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added Corpsman pouch to Corpsman!
+    - type: Add
+      message: Pinpointers to CGP vendors and techfab.
+    - type: Add
+      message: Alt CGP headsets to vendor.
+    - type: Fix
+      message: CGP holster names.
+  id: 7107
+  time: '2026-07-09T02:34:19.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1319
