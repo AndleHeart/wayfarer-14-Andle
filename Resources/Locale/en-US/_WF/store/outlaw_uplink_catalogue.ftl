@@ -37,8 +37,8 @@ uplink-outlaw-box35extincendiary-name = .35 Extended Incendiary Magazines
 uplink-outlaw-box35extincendiary-desc = A box full of extended pistol (.35 pistol, incendiary) magazines.
 uplink-outlaw-box35exturanium-name = .35 Extended Uranium Magazines
 uplink-outlaw-box35exturanium-desc = A box full of extended pistol (.35 pistol, uranium) magazines.
-uplink-outlaw-box35smg-name = .35 SMG Magazines
-uplink-outlaw-box35smg-desc = A box full of smg (.35 pistol) magazines.
+uplink-outlaw-box35smg-name = .35 SMG (Overpressure) Magazines
+uplink-outlaw-box35smg-desc = A box full of smg (.35 pistol, Overpressure) magazines.
 uplink-outlaw-box35smgrubber-name = .35 SMG ( Rubber ) Magazines
 uplink-outlaw-box35smgrubber-desc = A box full of smg (.35 pistol, rubber) magazines.
 
