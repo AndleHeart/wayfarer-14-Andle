@@ -17,7 +17,7 @@
   - type: SolutionContainerManager
     solutions:
       drink:
-        maxVol: 20
+        maxVol: 25 # Wayfarer: 20<25
   - type: MixableSolution
     solution: drink
   - type: FitsInDispenser
