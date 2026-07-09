@@ -94,6 +94,7 @@
   - ClothingMaskGasSecurity # Wayfarer
   - WFContrabandForensicsModule # Wayfarer
   - WFForensicScanner # Wayfarer
+  - PinpointerUniversalNF # Wayfarer
 
 - type: latheRecipePack
   id: NfsdTargetsStatic
