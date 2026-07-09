@@ -5324,3 +5324,12 @@ Entries:
   id: 7109
   time: '2026-07-09T02:35:42.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1317
+- author: Luweth
+  changes:
+    - type: Tweak
+      message: Changed a few doors and decals on Buckler-V!
+    - type: Fix
+      message: Fixed Buckler-V Extinguisher locker!
+  id: 7110
+  time: '2026-07-09T02:37:20.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1314
