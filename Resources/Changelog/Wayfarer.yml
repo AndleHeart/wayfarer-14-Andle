@@ -5333,3 +5333,14 @@ Entries:
   id: 7110
   time: '2026-07-09T02:37:20.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1314
+- author: Possumongus
+  changes:
+    - type: Tweak
+      message: Added more oxygen to ice asteroids
+    - type: Tweak
+      message: Buffed gas drill speed
+    - type: Tweak
+      message: Added more oxygen to oxygen deposits. and a ton more c02
+  id: 7111
+  time: '2026-07-09T02:41:00.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1310
