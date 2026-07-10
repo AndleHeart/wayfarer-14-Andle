@@ -235,9 +235,9 @@
   id: MobEnhancedMovement
   abstract: true
   components:
-#  - type: MovementAlwaysTouching - Wayfarer
-#  - type: MovementIgnoreGravity - Wayfarer
-#  - type: NoSlip - Wayfarer
+  - type: MovementAlwaysTouching
+  - type: MovementIgnoreGravity
+  - type: NoSlip
   - type: ProtectedFromStepTriggers
   - type: Climbing
   - type: Tool
