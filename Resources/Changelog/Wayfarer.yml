@@ -5376,3 +5376,26 @@ Entries:
   id: 7115
   time: '2026-07-12T01:59:08.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1331
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added redone PDA UI for CGP PDAs!
+    - type: Add
+      message: Added contraband forensic module to CGP vendor.
+    - type: Add
+      message: Added GR-44E EMP grenades to CGP techfab.
+    - type: Tweak
+      message: Doubled number of forensic scanner in CGP vendor.
+    - type: Tweak
+      message: Changed CGP command stamps to CGP colors!
+    - type: Tweak
+      message: Changed NFSD to CGP on CGP vendors!
+    - type: Tweak
+      message: Changed price of CGP webbing to be same as belt!
+    - type: Fix
+      message: Fixed broken ID prototype for Senior Peacekeeper!
+    - type: Fix
+      message: Fixed back item loadouts for CGP command staff!
+  id: 7116
+  time: '2026-07-12T02:22:51.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1328
