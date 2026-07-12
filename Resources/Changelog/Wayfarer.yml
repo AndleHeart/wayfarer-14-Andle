@@ -5358,3 +5358,14 @@ Entries:
   id: 7113
   time: '2026-07-12T01:57:21.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1335
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added stamina resist to high-tier outlaw hardsuits!
+    - type: Add
+      message: Added stamina resist to CGP combat hardsuits!
+    - type: Tweak
+      message: CGP combat hardsuit speed reduction lowered slightly.
+  id: 7114
+  time: '2026-07-12T01:58:12.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1334
