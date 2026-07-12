@@ -405,3 +405,12 @@
   materials:
     Steel: 1200
     Glass: 2200
+
+- type: latheRecipe
+  id: WFCartridgeRocketEmp
+  result: NFCartridgeRocketEmp
+  completetime: 3
+  materials:
+    Steel: 450
+    Plastic: 150
+    Glass: 50

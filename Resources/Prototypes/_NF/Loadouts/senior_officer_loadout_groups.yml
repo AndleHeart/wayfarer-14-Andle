@@ -55,4 +55,4 @@
   loadouts:
   - SeniorOfficerNFPouchNfsd
   subgroups:
-  - ContractorBackpackItems
+  - WFBackpackItems # Wayfarer ContractorBackpackItems<WFBackpackItems

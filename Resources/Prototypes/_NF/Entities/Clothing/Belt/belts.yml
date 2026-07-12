@@ -95,6 +95,10 @@
   - type: Clothing
     sprite: _WF/Clothing/Belt/CGP_webbing.rsi # Wayfarer: _NF/Clothing/Belt/nfsd_webbing.rsi<_WF/Clothing/Belt/CGP_webbing.rsi
   - type: CatWearable
+  # Wayfarer Start: Vendor price fix
+  - type: StaticPrice
+    price: 20
+  # End Wayfarer
 
 # Ported from Nyano
 - type: entity
