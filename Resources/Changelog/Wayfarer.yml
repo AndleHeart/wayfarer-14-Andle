@@ -5409,3 +5409,10 @@ Entries:
   id: 7117
   time: '2026-07-12T02:23:13.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1327
+- author: DevArchwave
+  changes:
+    - type: Remove
+      message: Death acidifiers and bomb implants have been removed from loot tables.
+  id: 7118
+  time: '2026-07-12T02:25:00.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1323
