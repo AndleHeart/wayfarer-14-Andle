@@ -5416,3 +5416,12 @@ Entries:
   id: 7118
   time: '2026-07-12T02:25:00.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1323
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: >-
+        Other Dusk Jobs should no longer have their titles overwritten to
+        "Captain" on ship purchase.
+  id: 7119
+  time: '2026-07-12T02:26:15.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1321
