@@ -5351,3 +5351,10 @@ Entries:
   id: 7112
   time: '2026-07-12T01:56:13.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1336
+- author: Goodfaun
+  changes:
+    - type: Tweak
+      message: added more stomachs for sausage recipes
+  id: 7113
+  time: '2026-07-12T01:57:21.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1335
