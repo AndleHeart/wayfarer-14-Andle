@@ -5399,3 +5399,13 @@ Entries:
   id: 7116
   time: '2026-07-12T02:22:51.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1328
+- author: sacafe
+  changes:
+    - type: Tweak
+      message: >-
+        adjusted a few things on the Freebird that were missed during the inital
+        build (door bolts, thruster buttions, rework of solar arrays, moved
+        condenser into a flat pack, vending machine instead of its poster) 
+  id: 7117
+  time: '2026-07-12T02:23:13.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1327
