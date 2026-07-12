@@ -10,10 +10,9 @@
   - type: CombatMode
   - type: InputMover
   - type: MobMover
-# // Wayfarer: Use new N14HostileCompound Preset
   - type: HTN
     rootTask:
-      task: N14HostileCompound # Wayfarer: SimpleHostileCompound:<N14HostileCompound
+      task: XenoCompound
     blackboard:
       NavClimb: !type:Bool
         true
@@ -23,9 +22,6 @@
         true
       NavSmash: !type:Bool
         true
-      MeleeRange: !type:Single
-        1.5
-# // Wayfarer
   - type: Prying
     pryPowered: true
     force: true
@@ -398,22 +394,9 @@
   - type: SlowOnDamage
     speedModifierThresholds:
       25: 0.7
-  # WF Start
   - type: HTN
     rootTask:
-      task: N14RangedHostileCompound
-    blackboard:
-      NavClimb: !type:Bool
-        true
-      NavInteract: !type:Bool
-        true
-      NavPry: !type:Bool
-        true
-      NavSmash: !type:Bool
-        true
-      MeleeRange: !type:Single
-        1.5
-  # WF End
+      task: SimpleRangedHostileCompound
   - type: RechargeBasicEntityAmmo
     rechargeCooldown: 0.75
   - type: BasicEntityAmmoProvider
@@ -470,20 +453,9 @@
       gender: male
   - type: InputMover
   - type: MobMover
-  # // Wayfarer: Use new N14HostileCompound Preset
   - type: HTN
     rootTask:
-      task: N14HostileCompound # Wayfarer: SimpleHostileCompound:<N14HostileCompound
-    blackboard:
-      NavClimb: !type:Bool
-        true
-      NavPry: !type:Bool
-        true
-      NavSmash: !type:Bool
-        true
-      MeleeRange: !type:Single
-        1.5
-  # // Wayfarer
+      task: SimpleHostileCompound
   - type: NpcFactionMember
     factions:
     - Xeno
@@ -561,16 +533,18 @@
   - type: CombatMode
   - type: InputMover
   - type: MobMover
-  # // Wayfarer: Use new N14HostileCompound Preset
   - type: HTN
     rootTask:
-      task: N14HostileCompound # Wayfarer: SimpleHostileCompound:<N14HostileCompound
+      task: XenoCompound
     blackboard:
+      NavClimb: !type:Bool
+        true
+      NavInteract: !type:Bool
+        true
+      NavPry: !type:Bool
+        true
       NavSmash: !type:Bool
         true
-      MeleeRange: !type:Single
-        1.5
-  # // Wayfarer
   - type: Reactive
     groups:
       Flammable: [Touch]
