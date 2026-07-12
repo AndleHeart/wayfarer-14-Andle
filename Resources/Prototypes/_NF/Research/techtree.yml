@@ -51,6 +51,7 @@
   cost: 5000
   recipeUnlocks:
   - AutolatheHyperConvectionMachineCircuitboard
+  - SheetifierMachineCircuitboard # Wayfarer
   - ProtolatheHyperConvectionMachineCircuitboard
   - CircuitImprinterHyperConvectionMachineCircuitboard
   technologyPrerequisites:
