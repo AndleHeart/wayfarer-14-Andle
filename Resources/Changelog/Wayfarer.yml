@@ -5459,3 +5459,16 @@ Entries:
   id: 7123
   time: '2026-07-15T00:47:54.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1352
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: >-
+        Certain submachineguns are now military contraband instead of black
+        market contraband.
+    - type: Fix
+      message: >-
+        Fixed wrong contraband level on the IFF consoles. (No, you can't get
+        permits for these)
+  id: 7124
+  time: '2026-07-15T00:50:11.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1350
