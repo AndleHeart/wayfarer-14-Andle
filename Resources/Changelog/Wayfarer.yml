@@ -5544,3 +5544,12 @@ Entries:
   id: 7132
   time: '2026-07-15T00:51:53.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1349
+- author: Possumongus
+  changes:
+    - type: Tweak
+      message: >-
+        Jugsuit down in res, combat suit back to old speed and energy sword for
+        cgp buffed.
+  id: 7133
+  time: '2026-07-15T01:04:35.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1341
