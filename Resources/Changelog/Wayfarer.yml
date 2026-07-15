@@ -5506,3 +5506,12 @@ Entries:
   id: 7128
   time: '2026-07-15T01:06:55.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1082
+- author: stinkiestdog
+  changes:
+    - type: Add
+      message: >-
+        Added a variant of the industrial reagent grinder, the industrial
+        juicer!
+  id: 7129
+  time: '2026-07-15T01:06:20.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/925
