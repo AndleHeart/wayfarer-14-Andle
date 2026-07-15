@@ -5443,3 +5443,12 @@ Entries:
   id: 7121
   time: '2026-07-15T00:46:20.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1355
+- author: Whisper
+  changes:
+    - type: Fix
+      message: >-
+        Fixed layering issues with eye coverings like patches. You can find them
+        in the "Head" markings and can adjust the layering.
+  id: 7122
+  time: '2026-07-15T00:47:25.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1353
