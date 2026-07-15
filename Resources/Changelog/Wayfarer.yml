@@ -5535,3 +5535,12 @@ Entries:
   id: 7131
   time: '2026-07-15T00:53:42.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1346
+- author: Luweth
+  changes:
+    - type: Remove
+      message: Removed Master key, security, and command key keys from smuggler loot!
+    - type: Tweak
+      message: Changed spawning keys for SR and STC!
+  id: 7132
+  time: '2026-07-15T00:51:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1349
