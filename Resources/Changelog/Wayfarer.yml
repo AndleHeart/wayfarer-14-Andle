@@ -5553,3 +5553,10 @@ Entries:
   id: 7133
   time: '2026-07-15T01:04:35.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1341
+- author: Possumongus
+  changes:
+    - type: Fix
+      message: Updated the localization files.
+  id: 7134
+  time: '2026-07-15T00:52:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1348
