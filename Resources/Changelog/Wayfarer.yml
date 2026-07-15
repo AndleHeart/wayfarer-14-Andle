@@ -5490,3 +5490,10 @@ Entries:
   id: 7126
   time: '2026-07-15T00:55:52.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1342
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed the wrong fire extinguisher cabinets from the CGP buckler ships.
+  id: 7127
+  time: '2026-07-15T01:02:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1344
