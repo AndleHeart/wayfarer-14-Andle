@@ -5472,3 +5472,14 @@ Entries:
   id: 7124
   time: '2026-07-15T00:50:11.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1350
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added Black Market contraband permit forms!
+    - type: Tweak
+      message: >-
+        Changed other CGP paperwork to be more proper with or standards and
+        lore.
+  id: 7125
+  time: '2026-07-15T00:54:28.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1345
