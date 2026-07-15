@@ -5425,3 +5425,12 @@ Entries:
   id: 7119
   time: '2026-07-12T02:26:15.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1321
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: >-
+        Added mime and clown clothing to the AutoDrobe the that were previously
+        only in loadout.
+  id: 7120
+  time: '2026-07-15T00:46:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1356
