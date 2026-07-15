@@ -5560,3 +5560,10 @@ Entries:
   id: 7134
   time: '2026-07-15T00:52:52.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1348
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: Add box of balloons to loadout & critter vend
+  id: 7135
+  time: '2026-07-15T00:48:14.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1354
