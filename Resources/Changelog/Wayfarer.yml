@@ -5497,3 +5497,12 @@ Entries:
   id: 7127
   time: '2026-07-15T01:02:48.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1344
+- author: Feathernights
+  changes:
+    - type: Add
+      message: Added the Dusk permit, Medic, and Reporter card to the PTech Vend.
+    - type: Tweak
+      message: Revised and replaced the current SR paperwork.
+  id: 7128
+  time: '2026-07-15T01:06:55.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1082
