@@ -5452,3 +5452,10 @@ Entries:
   id: 7122
   time: '2026-07-15T00:47:25.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1353
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: Add corp cart to loadout & ptech
+  id: 7123
+  time: '2026-07-15T00:47:54.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1352
