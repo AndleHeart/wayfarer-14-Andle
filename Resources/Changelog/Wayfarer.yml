@@ -5483,3 +5483,10 @@ Entries:
   id: 7125
   time: '2026-07-15T00:54:28.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1345
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Toned down the previous vgroid/hulk mob spawn counts a bit.
+  id: 7126
+  time: '2026-07-15T00:55:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1342
