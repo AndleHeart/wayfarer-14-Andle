@@ -5515,3 +5515,16 @@ Entries:
   id: 7129
   time: '2026-07-15T01:06:20.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/925
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: >-
+        Guidebook entry for the Velios, detailing similar controls to the
+        Veliola's.
+    - type: Tweak
+      message: >-
+        Both the Velios and the Veliola now spawn with roundstart basic supplies
+        in their engineering room, and beakers, which were missing before.
+  id: 7130
+  time: '2026-07-15T01:03:59.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1340
