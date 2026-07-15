@@ -5528,3 +5528,10 @@ Entries:
   id: 7130
   time: '2026-07-15T01:03:59.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1340
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: Added intercomm board to the engineering static recipe pack.
+  id: 7131
+  time: '2026-07-15T00:53:42.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1346
