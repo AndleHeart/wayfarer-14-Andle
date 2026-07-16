@@ -5567,3 +5567,10 @@ Entries:
   id: 7135
   time: '2026-07-15T00:48:14.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1354
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Svalinn Shuttle Gun has been buffed a bit.
+  id: 7136
+  time: '2026-07-16T05:11:47.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1359
