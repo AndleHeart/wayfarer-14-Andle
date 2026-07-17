@@ -5574,3 +5574,10 @@ Entries:
   id: 7136
   time: '2026-07-16T05:11:47.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1359
+- author: EkatrinaFC
+  changes:
+    - type: Tweak
+      message: Removed contra rating from syndicate bedsheets
+  id: 7137
+  time: '2026-07-17T04:00:28.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1363
