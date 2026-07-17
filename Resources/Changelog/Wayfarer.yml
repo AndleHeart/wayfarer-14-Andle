@@ -5588,3 +5588,10 @@ Entries:
   id: 7138
   time: '2026-07-17T04:01:37.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1358
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: (Miles) Added the Radio Broadcast Console & Portable Radio.
+  id: 7139
+  time: '2026-07-17T14:57:47.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1156
