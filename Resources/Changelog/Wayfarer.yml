@@ -5581,3 +5581,10 @@ Entries:
   id: 7137
   time: '2026-07-17T04:00:28.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1363
+- author: sacafe
+  changes:
+    - type: Add
+      message: 'Added ocarinas to loadout options '
+  id: 7138
+  time: '2026-07-17T04:01:37.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1358
