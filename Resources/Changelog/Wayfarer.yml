@@ -5595,3 +5595,10 @@ Entries:
   id: 7139
   time: '2026-07-17T14:57:47.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1156
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: DeltaV Trait System
+  id: 7140
+  time: '2026-07-17T15:00:12.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1226
