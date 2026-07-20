@@ -5618,3 +5618,10 @@ Entries:
   id: 7142
   time: '2026-07-17T15:03:37.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1337
+- author: sacafe
+  changes:
+    - type: Add
+      message: Zipper inflatable life raft
+  id: 7143
+  time: '2026-07-20T23:03:02.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1362
