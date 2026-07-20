@@ -5632,3 +5632,10 @@ Entries:
   id: 7144
   time: '2026-07-20T23:30:20.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1378
+- author: Rellu225
+  changes:
+    - type: Add
+      message: Added amoxla and dylovene auto injectors.
+  id: 7145
+  time: '2026-07-20T23:34:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1379
