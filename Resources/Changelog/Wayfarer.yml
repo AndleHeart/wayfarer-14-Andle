@@ -5625,3 +5625,10 @@ Entries:
   id: 7143
   time: '2026-07-20T23:03:02.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1362
+- author: Cat-With-A-Computer
+  changes:
+    - type: Fix
+      message: Bar spoon no longer tries to drink what you're stirring.
+  id: 7144
+  time: '2026-07-20T23:30:20.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1378
