@@ -5639,3 +5639,10 @@ Entries:
   id: 7145
   time: '2026-07-20T23:34:34.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1379
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added higher access to Senior Peacekeeper, same as MAA.
+  id: 7146
+  time: '2026-07-20T23:36:24.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1380
