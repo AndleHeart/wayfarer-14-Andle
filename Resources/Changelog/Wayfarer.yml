@@ -5699,3 +5699,16 @@ Entries:
   id: 7151
   time: '2026-07-21T02:06:34.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1367
+- author: Cat-With-A-Computer
+  changes:
+    - type: Add
+      message: Aspect sniper rifle, to the CGP uplink
+    - type: Add
+      message: .60 lethal and rubber rounds to CGP uplink
+    - type: Tweak
+      message: Sniper rifle muzzle velocity and overall accuracy increase
+    - type: Fix
+      message: Laser cannon being slower than intended
+  id: 7152
+  time: '2026-07-21T02:38:08.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1368
