@@ -73,7 +73,10 @@ uplink-security-energygun-desc = A semi-automatic energy gun capable of firing b
 
 uplink-security-emprpg-name = EMP Rocket Launcher
 uplink-security-emprpg-desc = A rocket propelled grenade launcher. Comes with 1 EMP round.
-
+# Wayfarer Start
+uplink-security-eshotty-name = Experimental Energy Shotgun
+uplink-security-eshotty-desc = Experimental Energy Shotgun with three different firing modes. Wide, which fires more shots. Narrow, which decreases spread. And disabler, which fires disabling energy bolts.
+# Wayfarer End
 uplink-security-empgrenade-name = EMP Grenade
 uplink-security-empgrenade-desc = A handheld grenade that emits a high energy pulse that disrupts electronics and power systems in a moderately large radius.
 

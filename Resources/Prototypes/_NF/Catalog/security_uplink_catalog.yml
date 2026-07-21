@@ -371,6 +371,24 @@
       whitelist:
         tags:
           - SecurityUplink
+          
+# Wayfarer Start
+- type: listing
+  id: UplinkSecurityEnergyShotgun
+  name: uplink-security-eshotty-name
+  description: uplink-security-eshotty-desc
+  productEntity: WFWeaponCGPEnergyShotgun
+  icon: { sprite: Objects/Weapons/Guns/Battery/energy_shotgun.rsi, state: icon }
+  cost:
+    FrontierUplinkCoin: 8
+  categories:
+  - UplinkSecurityWeapons
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - SecurityUplink
+# Wayfarer End
 
 #region utililty
 - type: listing
