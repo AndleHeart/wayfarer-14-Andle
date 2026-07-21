@@ -5653,3 +5653,14 @@ Entries:
   id: 7147
   time: '2026-07-21T00:07:43.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1370
+- author: Possumongus
+  changes:
+    - type: Tweak
+      message: (TEST) Outlaw combat equipment moved to wanted outlaw PDA.
+    - type: Tweak
+      message: >-
+        Combat Medipens can no longer be used after being bought, requires
+        cocking
+  id: 7148
+  time: '2026-07-21T00:17:42.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1377
