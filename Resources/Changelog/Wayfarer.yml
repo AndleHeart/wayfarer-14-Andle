@@ -5671,3 +5671,24 @@ Entries:
   id: 7149
   time: '2026-07-21T01:50:16.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1376
+- author: Possumongus
+  changes:
+    - type: Remove
+      message: >-
+        Access breaker no longer clears out door's perms and is limited in
+        charges
+    - type: Tweak
+      message: increased ship weapon speed
+    - type: Tweak
+      message: increased explosion structural damage for both default and satchel
+    - type: Tweak
+      message: buffed grapeshot
+    - type: Tweak
+      message: buffed cgp armor
+    - type: Tweak
+      message: Thrusters can now be hit by weaponry reduced large thruster's hp.
+    - type: Fix
+      message: Fixed HEAT rounds not doing enough damage
+  id: 7150
+  time: '2026-07-21T02:05:15.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1364
