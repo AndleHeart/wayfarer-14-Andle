@@ -5692,3 +5692,10 @@ Entries:
   id: 7150
   time: '2026-07-21T02:05:15.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1364
+- author: cyanfoot
+  changes:
+    - type: Tweak
+      message: Cyborgs, especially medical cyborgs, get bonuses to surgery speed.
+  id: 7151
+  time: '2026-07-21T02:06:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1367
