@@ -5664,3 +5664,10 @@ Entries:
   id: 7148
   time: '2026-07-21T00:17:42.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1377
+- author: Cat-With-A-Computer
+  changes:
+    - type: Add
+      message: Added Experimental Energy Shotgun to CGP uplink
+  id: 7149
+  time: '2026-07-21T01:50:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1376
