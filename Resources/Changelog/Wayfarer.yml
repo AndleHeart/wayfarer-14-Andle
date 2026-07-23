@@ -5733,3 +5733,10 @@ Entries:
   id: 7155
   time: '2026-07-23T15:13:03.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1386
+- author: sacafe
+  changes:
+    - type: Fix
+      message: 'brought kobold to ship-build standards for civilian '
+  id: 7156
+  time: '2026-07-23T15:50:57.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1361
