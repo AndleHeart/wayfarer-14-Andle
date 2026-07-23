@@ -5747,3 +5747,10 @@ Entries:
   id: 7157
   time: '2026-07-23T15:54:06.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1387
+- author: Possumongus
+  changes:
+    - type: Fix
+      message: Fixed some issues with the manta.
+  id: 7158
+  time: '2026-07-23T15:57:58.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1365
