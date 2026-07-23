@@ -5726,3 +5726,10 @@ Entries:
   id: 7154
   time: '2026-07-23T14:49:38.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1381
+- author: Possumongus
+  changes:
+    - type: Add
+      message: NF added loot involving disks has been updated to give DC
+  id: 7155
+  time: '2026-07-23T15:13:03.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1386
