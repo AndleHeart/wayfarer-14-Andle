@@ -5740,3 +5740,10 @@ Entries:
   id: 7156
   time: '2026-07-23T15:50:57.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1361
+- author: Possumongus
+  changes:
+    - type: Tweak
+      message: Made bluespace bags 2 rows smaller.
+  id: 7157
+  time: '2026-07-23T15:54:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1387
