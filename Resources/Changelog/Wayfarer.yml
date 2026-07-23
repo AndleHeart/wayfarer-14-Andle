@@ -5719,3 +5719,10 @@ Entries:
   id: 7153
   time: '2026-07-23T13:22:47.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1372
+- author: TheSlapper
+  changes:
+    - type: Tweak
+      message: Air alarms can be altered by non-crew.
+  id: 7154
+  time: '2026-07-23T14:49:38.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1381
