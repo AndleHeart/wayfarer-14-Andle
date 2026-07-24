@@ -5778,3 +5778,18 @@ Entries:
   id: 7160
   time: '2026-07-24T01:06:12.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1385
+- author: Nnelg
+  changes:
+    - type: Tweak
+      message: Moppet now uses console buttons
+    - type: Add
+      message: Poppet, an outlaw version of the Moppet
+    - type: Add
+      message: Felix, a small solar-powered mining ship
+    - type: Add
+      message: Infelix, an outlaw version of the Felix
+    - type: Tweak
+      message: Vox-Buckler now has a different name for its guidebook entry
+  id: 7161
+  time: '2026-07-24T01:31:39.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1375
