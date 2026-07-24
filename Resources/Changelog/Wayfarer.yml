@@ -5754,3 +5754,18 @@ Entries:
   id: 7158
   time: '2026-07-23T15:57:58.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1365
+- author: lucentlavender
+  changes:
+    - type: Add
+      message: >-
+        Psychic clothing lock collar module. Similar to the regular clothing
+        lock but only prevents the wearer from changing clothes.
+    - type: Add
+      message: >-
+        Speech modifier collar module. Forces the wearer to speak in a certain
+        manner, such as like a cat.
+    - type: Tweak
+      message: Increased advanced collar max modules to 5
+  id: 7159
+  time: '2026-07-24T00:43:07.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1383
