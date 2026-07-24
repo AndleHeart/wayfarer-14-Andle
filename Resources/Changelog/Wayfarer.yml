@@ -5769,3 +5769,12 @@ Entries:
   id: 7159
   time: '2026-07-24T00:43:07.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1383
+- author: Cat-With-A-Computer
+  changes:
+    - type: Fix
+      message: >-
+        Super-bright lantern flashing every time it's turned on, rather than
+        being a manual flash.
+  id: 7160
+  time: '2026-07-24T01:06:12.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1385
