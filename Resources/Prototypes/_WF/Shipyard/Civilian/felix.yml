@@ -9,36 +9,35 @@
 # Shuttle Notes:
 #
 - type: vessel
-  id: Moppet
+  id: Felix
   parent: BaseVessel
-  name: RBS Moppet
-  description: A robust Janitorial ship commissioned by Zekke's Maid Guild to become the new workhorse of cleaning services in the sector.
-  price: 32000
+  name: RBS Felix
+  description: A small, solar powered mining vessel.
+  price: 39000
   category: Small
-  group: Sr
-  access: Janitor
-  shuttlePath: /Maps/_WF/Shuttles/Staff/moppet.yml
-  guidebookPage: ShipyardMoppet
+  group: Shipyard
+  shuttlePath: /Maps/_WF/Shuttles/Civilian/felix.yml
+  guidebookPage: ShipyardFelix
   class:
   - Civilian
   engine:
-  - Biofuel
+  - Plasma
   - Solar
 
 - type: gameMap
-  id: Moppet
-  mapName: 'RBS Moppet'
-  mapPath: /Maps/_WF/Shuttles/Staff/moppet.yml
+  id: Felix
+  mapName: 'RBS Felix'
+  mapPath: /Maps/_WF/Shuttles/Civilian/felix.yml
   minPlayers: 0
   stations:
-    Moppet:
+    Felix:
       stationProto: StandardFrontierVessel
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Moppet {1}'
+          mapNameTemplate: 'Felix {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'
         - type: StationJobs
           availableJobs:
-            NFJanitor: [ 0, 0 ]
+            WayfarerInterview: [ 0, 0 ]

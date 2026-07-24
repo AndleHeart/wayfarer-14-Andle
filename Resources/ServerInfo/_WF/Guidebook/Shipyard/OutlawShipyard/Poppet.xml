@@ -1,5 +1,5 @@
 <Document>
-  # MOPPET-CLASS JANITORIAL SHUTTLE
+  # POPPET-CLASS OUTLAW SHUTTLE
   <!-- replace poster with any entity you want. -->
   <!-- TODO: make add a maid Dress
   <Box>
@@ -7,7 +7,7 @@
   </Box>
   -->
   <Box>
-    <GuideEntityEmbed Entity="ShuttleMapMoppet" Caption="Maid for Cleaning"/>
+    <GuideEntityEmbed Entity="ShuttleMapPoppet" Caption="Maid for Crime"/>
   </Box>
   <!-- ShuttleMapXXXXX this is where you put your shipname this is gonna be your little map of the ship. -->
   [color=#a4885c]Ship Size:[/color] Small
@@ -18,11 +18,11 @@
 
   # Shuttle Brief
 
-  A ship designed to be the new workhorse of cleaning duties in the sector, manufactured by the Zwergenkust Guild on behalf of the Maid's Guild.
+  A ship once designed for cleaning up messes, now repurposed for making them.
 
   # Ship Functions
   
-  The Moppet comes standard with a material reclaimer, service fab, shower, sink, drains, mobile pump, various janitorial essentials, and of course a free Janitorial Maid Dress!
+  The Poppet ditches most of its janitorial trappings for a small cargo bay and hidden gun port.
   
   Note that the solar array does not produce sufficient power for continuous thruster operation. Use the thruster power toggle button on the bridge to disable thrusters when docked if attempting to operate without consuming biofuel.
 
@@ -36,25 +36,27 @@
 	
     [bullet/] [bold]3:[/bold] Toggle bridge windows.
 	
-    [bullet/] [bold]4:[/bold] Docking port bolt toggle.
+    [bullet/] [bold]4:[/bold] Gun deck inner window/door bolt toggle.
+	
+    [bullet/] [bold]5:[/bold] Open gun port doors.
+	
+    [bullet/] [bold]6:[/bold] Close gun port doors.
+	
+    [bullet/] [bold]7:[/bold] Fire cannon (with door safety check).
+	
+    [bullet/] [bold]8:[/bold] Fire cannon (override door safety check).
 
   # Upgrade Requirements
   
-  The Moppet has 10 thrusters, requiring a total of 40 capacitors.
+  The Poppet has 10 thrusters, requiring a total of 40 capacitors.
   
   Its generator and gyro together require 2 capacitors and 2 manipulators.
   
   Its SMES requires 1 capacitor and 4 power cells (or 2 capacitors and 8 power cells for advanced SMES).
   
-  Its fab and material reclaimer together require 4 manipulators and 2 matter bins.
-  
   It has 30 solar panels, requiring a total of 60 glass.
   
-  Overall, this means its full upgrade (including advanced SMES) requires: [bold]44[/bold] capacitors, [bold]6[/bold] manipulators, [bold]2[/bold] matter bins, [bold]8[/bold] power cells, and [bold]60[/bold] glass.
-
-  # Janitor
-
-  [textlink="Janitor" link="Janitor"/]
+  Overall, this means its full upgrade (including advanced SMES) requires: [bold]44[/bold] capacitors, [bold]4[/bold] manipulators, [bold]8[/bold] power cells, and [bold]60[/bold] glass.
 
   # Piloting
 
