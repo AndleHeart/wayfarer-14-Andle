@@ -11,7 +11,7 @@
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: DemolitionCharge
-    totalIntensity: 35 #50<35
+    totalIntensity: 30 #50<30
     intensitySlope: 15
     maxIntensity: 20 #25<20
     canCreateVacuum: false
