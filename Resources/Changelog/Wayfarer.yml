@@ -5814,3 +5814,10 @@ Entries:
   id: 7164
   time: '2026-07-26T20:18:48.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1395
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed unrestockable liberation station
+  id: 7165
+  time: '2026-07-26T20:20:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1396
