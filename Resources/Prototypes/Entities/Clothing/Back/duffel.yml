@@ -262,7 +262,7 @@
   - type: Storage
     maxItemSize: Huge
     grid:
-    - 0,0,7,5 # Frontier: Was 0,0,19,9 Wayfarer: 0,0,7,7 < 0,0,7,5
+    - 0,0,7,7 # Frontier: Was 0,0,19,9
   - type: ClothingSpeedModifier
     sprintModifier: 1 # makes its stats identical to other variants of bag of holding
   - type: HeldSpeedModifier
