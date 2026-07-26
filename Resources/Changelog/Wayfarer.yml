@@ -5807,3 +5807,10 @@ Entries:
   id: 7163
   time: '2026-07-26T17:53:14.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1394
+- author: DevArchwave
+  changes:
+    - type: Remove
+      message: Removed ephedrine from the vent clog event.
+  id: 7164
+  time: '2026-07-26T20:18:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1395
