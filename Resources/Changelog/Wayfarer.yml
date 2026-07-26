@@ -5793,3 +5793,10 @@ Entries:
   id: 7161
   time: '2026-07-24T01:31:39.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1375
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: The RPDS should no longer be contraband.
+  id: 7162
+  time: '2026-07-26T17:49:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1392
