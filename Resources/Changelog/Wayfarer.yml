@@ -5800,3 +5800,10 @@ Entries:
   id: 7162
   time: '2026-07-26T17:49:52.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1392
+- author: Rellu225
+  changes:
+    - type: Tweak
+      message: Changed dylovene auto-injector contents.
+  id: 7163
+  time: '2026-07-26T17:53:14.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1394
