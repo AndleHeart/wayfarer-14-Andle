@@ -5837,3 +5837,10 @@ Entries:
   id: 7167
   time: '2026-07-30T00:30:05.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1403
+- author: Possumongus
+  changes:
+    - type: Tweak
+      message: Test concluded, outlaw uplinks are back to normal!
+  id: 7168
+  time: '2026-07-30T00:32:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1405
