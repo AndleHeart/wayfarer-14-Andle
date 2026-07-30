@@ -5828,3 +5828,12 @@ Entries:
   id: 7166
   time: '2026-07-30T00:27:09.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1398
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: >-
+        Increased the drop rate of rarer upgrade parts from wrecks and brass
+        wrecks.
+  id: 7167
+  time: '2026-07-30T00:30:05.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1403
