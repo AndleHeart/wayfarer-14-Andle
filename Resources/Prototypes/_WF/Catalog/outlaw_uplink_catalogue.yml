@@ -49,11 +49,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 # Outlaw Hardsuit
 - type: listing
@@ -88,11 +83,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 # Wearables  --
 
@@ -197,11 +187,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 # Magboots
 - type: listing
@@ -401,11 +386,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 # Pirate ShipCannon
 - type: listing
@@ -612,11 +592,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 # Access Breaker
 - type: listing
@@ -633,11 +608,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 # EMAG, my beloved
 - type: listing
@@ -940,11 +910,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 - type: listing
   id: UplinkOutlawNFCannonBallEmp
@@ -1204,11 +1169,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 #Hyperzine Pen
 - type: listing
@@ -1225,11 +1185,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 #Interdynes
 - type: listing
@@ -1315,11 +1270,6 @@
     whitelist:
       tags:
       - OutlawUplinkBase
-    #Wayfarer: Start of WO and O separation. TO BE DELETED
-  - !type:BuyerJobCondition
-      whitelist:
-        - NFPirateCaptain
-    #Wayfarer: end of WO and O separation. TO BE DELETED
 
 #Vouchers--
 - type: listing
