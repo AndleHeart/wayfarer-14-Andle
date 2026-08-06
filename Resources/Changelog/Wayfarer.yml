@@ -5878,3 +5878,16 @@ Entries:
   id: 7172
   time: '2026-08-06T02:39:36.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1411
+- author: RoY7x
+  changes:
+    - type: Add
+      message: Missing mugs that were not in the Service Techfab
+    - type: Add
+      message: >-
+        Pitchers to the techfab... Why was this only available via a vending
+        machine?
+    - type: Add
+      message: Two new generic to-go boxes for meals to go!
+  id: 7173
+  time: '2026-08-06T02:40:46.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1412
