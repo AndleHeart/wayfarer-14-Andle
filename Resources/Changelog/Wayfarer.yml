@@ -5871,3 +5871,10 @@ Entries:
   id: 7171
   time: '2026-08-06T02:31:46.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1388
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed (removed) ER forced tracking.
+  id: 7172
+  time: '2026-08-06T02:39:36.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1411
