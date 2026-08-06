@@ -5858,3 +5858,16 @@ Entries:
   id: 7170
   time: '2026-07-30T00:58:24.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1407
+- author: Rellu225
+  changes:
+    - type: Add
+      message: Added a drobe vend to the array
+    - type: Tweak
+      message: Tweaked Centcomm
+    - type: Tweak
+      message: Tweaked Rekindle paramedic shuttle.
+    - type: Tweak
+      message: Tweaked Lamplight service shuttle.
+  id: 7171
+  time: '2026-08-06T02:31:46.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1388
