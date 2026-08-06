@@ -5891,3 +5891,10 @@ Entries:
   id: 7173
   time: '2026-08-06T02:40:46.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1412
+- author: RoY7x
+  changes:
+    - type: Tweak
+      message: Made construction bags now able to hold atmos piping and magnet them up.
+  id: 7174
+  time: '2026-08-06T02:43:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1413
