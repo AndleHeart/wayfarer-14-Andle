@@ -5909,3 +5909,10 @@ Entries:
   id: 7175
   time: '2026-08-06T02:47:17.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1418
+- author: lucentlavender
+  changes:
+    - type: Fix
+      message: Board game pieces will no longer get deleted randomly.
+  id: 7176
+  time: '2026-08-06T18:09:27.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1424
