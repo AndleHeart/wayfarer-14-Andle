@@ -5928,3 +5928,12 @@ Entries:
   id: 7177
   time: '2026-08-07T23:55:40.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1401
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: >-
+        added Fishing. Buy a fishing kit from cargo, and head to your nearest
+        pond or pool! 
+  id: 7178
+  time: '2026-08-07T23:58:42.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1420
