@@ -20,3 +20,6 @@
 
 - type: Tag
   id: DataChit
+  
+- type: Tag
+  id: WFMerchantUplink # Denoted for use within the merchant uplink

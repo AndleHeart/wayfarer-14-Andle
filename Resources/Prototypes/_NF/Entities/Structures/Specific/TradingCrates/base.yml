@@ -7,7 +7,7 @@
   - type: Transform
     noRot: true
   - type: TradeCrate
-    valueAtDestination: 1500
+    valueAtDestination: 1600 #WF: 1500<1600 way too little, no wonder everyone spammed express
     valueElsewhere: 400
   - type: IgnoreMarketModifier
   - type: Icon
@@ -93,6 +93,8 @@
       paper_label: !type:ContainerSlot
   - type: ItemSlots
   - type: RequireProjectileTarget
+  - type: WFBonusCurrency #Wayfarer: Add additional currency that checks destination
+    currency: WayfarerMerchantToken
 
 - type: entity
   parent:
