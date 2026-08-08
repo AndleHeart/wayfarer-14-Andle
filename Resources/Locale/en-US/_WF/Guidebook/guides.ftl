@@ -62,3 +62,4 @@ guide-entry-shipyard-manta = Manta
 guide-entry-shipyard-velios = Velios
 guide-entry-shipyard-veliola = Veliola
 guide-entry-shipyard-zipper = Zipper
+guide-entry-shipyard-zenith = Zenith

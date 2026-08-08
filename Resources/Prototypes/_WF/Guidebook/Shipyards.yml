@@ -1,4 +1,4 @@
-﻿- type: guideEntry
+- type: guideEntry
   id: CgpShipyard
   name: guide-entry-cgpshipyard
   text: "/ServerInfo/_WF/Guidebook/Shipyard/CgpShipyard.xml"
@@ -81,6 +81,7 @@
   - ShipyardTakeaway # MonolithShip
   - ShipyardUniform
   - ShipyardVagabond # FrontierShip Resources/Prototypes/_NF/Guidebook/shipyard.yml
+  - ShipyardZenith
 
 # syndicate shipyard commented out due to not knowing what to replace it name wise with.
 #- type: guideEntry
@@ -363,3 +364,8 @@
   id: ShipyardZipper
   name: guide-entry-shipyard-zipper
   text: "/ServerInfo/_WF/Guidebook/Shipyard/ScrapShipyard/Zipper.xml"
+
+- type: guideEntry
+  id: ShipyardZenith
+  name: guide-entry-shipyard-zenith
+  text: "/ServerInfo/_WF/Guidebook/Shipyard/CivShipyard/Zenith.xml"

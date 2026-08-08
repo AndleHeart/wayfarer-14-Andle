@@ -1,4 +1,4 @@
-﻿- type: entity
+- type: entity
   parent: PosterBase
   id: ShuttleMapBuckler
   name: "Buckler"
@@ -338,3 +338,14 @@
   - type: Sprite
     sprite: _WF/Guidebook/shuttle_maps/128x96.rsi
     state: zipper
+
+- type: entity
+  parent: PosterBase
+  id: ShuttleMapZenith
+  name: "Zenith"
+  description: "Detailed map of a Zenith shuttle."
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: Sprite
+    sprite: _WF/Guidebook/shuttle_maps/128x96.rsi
+    state: zenith
