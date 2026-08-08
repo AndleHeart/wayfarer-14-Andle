@@ -5951,3 +5951,10 @@ Entries:
   id: 7180
   time: '2026-08-08T00:02:16.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1402
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Add
+      message: 'SWS Zenith: A premium science vessel made with crew comfort in mind'
+  id: 7181
+  time: '2026-08-08T00:06:03.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1425
