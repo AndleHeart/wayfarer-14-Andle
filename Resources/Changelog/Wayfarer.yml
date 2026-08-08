@@ -5994,3 +5994,10 @@ Entries:
   id: 7185
   time: '2026-08-08T00:25:21.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1427
+- author: EkatrinaFC
+  changes:
+    - type: Tweak
+      message: Made L6 back into C3 contra rating.
+  id: 7186
+  time: '2026-08-08T02:08:01.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1433
