@@ -5985,3 +5985,12 @@ Entries:
   id: 7184
   time: '2026-08-08T00:15:16.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1432
+- author: Nnelg
+  changes:
+    - type: Fix
+      message: >-
+        cleanades can no longer kill people; space cleaner causes vomiting
+        instead of damage
+  id: 7185
+  time: '2026-08-08T00:25:21.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1427
