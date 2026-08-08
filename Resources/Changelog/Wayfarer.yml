@@ -5967,3 +5967,12 @@ Entries:
   id: 7182
   time: '2026-08-08T00:08:45.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1426
+- author: lucentlavender
+  changes:
+    - type: Add
+      message: >-
+        Multiline chatbox. The chatbox will now expand upwards to show you your
+        entire message, instead of scrolling horizontally.
+  id: 7183
+  time: '2026-08-08T00:12:47.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1429
