@@ -5958,3 +5958,12 @@ Entries:
   id: 7181
   time: '2026-08-08T00:06:03.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1425
+- author: Nnelg
+  changes:
+    - type: Fix
+      message: >-
+        Theobromine Intolerant characters no longer vomit from coffee etc. if
+        it's properly mixed with Caramexinin.
+  id: 7182
+  time: '2026-08-08T00:08:45.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1426
