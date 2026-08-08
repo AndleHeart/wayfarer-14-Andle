@@ -187,6 +187,9 @@
   - type: BasicStationEventScheduler
     scheduledGameRules: !type:NestedSelector
       tableId: NFGameRulesTable
+    minMaxEventTiming:
+      min: 5400 # Wayfarer: 1 hour 30 minutes between events
+      max: 10800 # Wayfarer: 3 hours between events
 
 # Wayfarer Start
 - type: entity
