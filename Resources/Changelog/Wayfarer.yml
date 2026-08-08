@@ -5976,3 +5976,12 @@ Entries:
   id: 7183
   time: '2026-08-08T00:12:47.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1429
+- author: Cat-With-A-Computer
+  changes:
+    - type: Remove
+      message: APC toggle event
+    - type: Tweak
+      message: Events are now about half as common
+  id: 7184
+  time: '2026-08-08T00:15:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1432
