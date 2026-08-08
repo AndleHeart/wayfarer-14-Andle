@@ -5937,3 +5937,10 @@ Entries:
   id: 7178
   time: '2026-08-07T23:58:42.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1420
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: added a Morgue to dusk
+  id: 7179
+  time: '2026-08-08T00:00:02.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1422
