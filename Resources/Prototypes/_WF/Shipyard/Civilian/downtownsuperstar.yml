@@ -3,7 +3,7 @@
   parent: BaseVessel
   name: TGA Downtown Superstar
   description: A heavy duty salvaging ship designed with engineering and cargo hauling in mind.
-  price: 167500
+  price: 176000
   category: Large
   group: Shipyard
   shuttlePath: /Maps/_WF/Shuttles/Civilian/downtownsuperstar.yml
