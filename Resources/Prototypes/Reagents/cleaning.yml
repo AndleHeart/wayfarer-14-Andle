@@ -53,19 +53,6 @@
         - !type:OrganType
           type: Vox
           shouldHave: true
-    Poison:
-      effects:
-      - !type:ChemVomit
-        probability: 0.1
-        conditions:
-        - !type:OrganType
-          type: Vox
-          shouldHave: false
-        - !type:OrganType
-          type: Avali
-          shouldHave: false
-        - !type:ReagentThreshold
-          min: 5
   # End Wayfarer
 
 - type: reagent
