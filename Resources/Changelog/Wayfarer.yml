@@ -5944,3 +5944,10 @@ Entries:
   id: 7179
   time: '2026-08-08T00:00:02.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1422
+- author: Cat-With-A-Computer
+  changes:
+    - type: Tweak
+      message: Added Records Computer to Downtown Superstar
+  id: 7180
+  time: '2026-08-08T00:02:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1402
