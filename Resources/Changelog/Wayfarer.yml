@@ -6001,3 +6001,10 @@ Entries:
   id: 7186
   time: '2026-08-08T02:08:01.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1433
+- author: Nnelg
+  changes:
+    - type: Remove
+      message: unasked-for harmful effects on space cleaner
+  id: 7187
+  time: '2026-08-08T03:27:24.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1435
