@@ -6015,3 +6015,10 @@ Entries:
   id: 7188
   time: '2026-08-09T21:14:07.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1438
+- author: sacafe
+  changes:
+    - type: Add
+      message: Fatbears class diner
+  id: 7189
+  time: '2026-08-10T02:41:31.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1414
