@@ -6029,3 +6029,10 @@ Entries:
   id: 7190
   time: '2026-08-10T02:48:05.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1415
+- author: Rellu225
+  changes:
+    - type: Add
+      message: Added Club Calypso
+  id: 7191
+  time: '2026-08-17T01:15:43.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1268
