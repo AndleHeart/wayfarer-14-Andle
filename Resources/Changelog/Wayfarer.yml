@@ -6068,3 +6068,12 @@ Entries:
   id: 7195
   time: '2026-08-17T01:49:29.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1442
+- author: drraccoony
+  changes:
+    - type: Tweak
+      message: Changed ghosts triggering shuttles to active
+    - type: Tweak
+      message: Changed time needed to toggle ships from active/inactive/active.
+  id: 7196
+  time: '2026-08-17T02:36:31.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1443
