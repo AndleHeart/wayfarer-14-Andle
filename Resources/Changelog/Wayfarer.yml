@@ -6077,3 +6077,22 @@ Entries:
   id: 7196
   time: '2026-08-17T02:36:31.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1443
+- author: RoY7x
+  changes:
+    - type: Tweak
+      message: Adjusted Alerts to fit Wayfarer a bit better
+    - type: Add
+      message: Added new alerts for weather disasters
+    - type: Add
+      message: Added new alerts for elevated disease and engineering disasters
+    - type: Tweak
+      message: >-
+        Added new admin/centcom only alerts for true apocalyptic story
+        disasters.
+    - type: Fix
+      message: >-
+        Need to eventually update sounds accordingly, but for now reusing
+        already available alert sounds.
+  id: 7197
+  time: '2026-08-17T02:51:43.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1456
