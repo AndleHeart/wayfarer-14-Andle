@@ -6036,3 +6036,12 @@ Entries:
   id: 7191
   time: '2026-08-17T01:15:43.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1268
+- author: Rellu225
+  changes:
+    - type: Add
+      message: SI Sidewinder.
+    - type: Tweak
+      message: Buckler maintenance.
+  id: 7192
+  time: '2026-08-17T01:21:10.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1437
