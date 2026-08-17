@@ -6052,3 +6052,10 @@ Entries:
   id: 7193
   time: '2026-08-17T01:27:35.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1452
+- author: Hammeredmantis
+  changes:
+    - type: Fix
+      message: Fixed the Swan making it a viable Sci and Med ship!
+  id: 7194
+  time: '2026-08-17T01:35:00.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1440
