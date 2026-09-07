@@ -11,5 +11,5 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
-    sprite: _WF/Guidebook/shuttle_maps/Cross/128x96.rsi
-    state: Cross
+    sprite: _WF/Guidebook/shuttle_maps/CompanyATL/128x96.rsi
+    state: cross
