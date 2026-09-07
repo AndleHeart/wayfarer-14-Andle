@@ -1,0 +1,34 @@
+- type: vessel  
+  id: Cross  
+  parent: BaseVessel  
+  name: ATL Cross  
+  description: A top of the line rapid-response medical vessel custom designed for Corpsman's duties. With cryogenics and an integrated medbay, this vessel is especially designed for rapid response duties.
+  price: 73500 # (287*50 + 31585 ) * 1.(15*4) 
+  category: Medium
+  group: Security
+  access: Security
+  shuttlePath: /Maps/_WF/Shuttles/Cgp/Cross.yml  
+  guidebookPage: ShipyardCross
+  class:  
+  - Medical
+  - Support 
+  engine:  
+  - Plasma 
+  - APU 
+  
+- type: gameMap  
+  id: Cross  
+  mapName: 'AAA Shipname'  
+  mapPath: /Maps/_WF/Shuttles/Civilian/shipname.yml  
+  minPlayers: 0  
+  stations:  
+    Shipname: Cross 
+      stationProto: StandardFrontierSecurityVessel  
+      components:  
+      - type: StationNameSetup  
+        mapNameTemplate: 'Cross {1}'  
+        nameGenerator:  
+          !type:CGPNameGenerator 
+          prefixCreator: '14'  
+      - type: StationJobs  
+        availableJobs: {}

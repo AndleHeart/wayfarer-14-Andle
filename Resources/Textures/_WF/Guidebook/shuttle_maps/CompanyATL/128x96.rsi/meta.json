@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "license": "",
+    "copyright": "Inspired by previous shuttle maps by erhardsteinhauer (discord/github), made by Andleheart (discord/github).",
+    "size": {
+        "x": 128,
+        "y": 96
+    },
+    "states": [
+        {
+            "name": "Cross"
+        }
+    ]
+}
