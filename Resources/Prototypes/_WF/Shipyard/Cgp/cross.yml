@@ -6,7 +6,7 @@
   price: 73500 # (287*50 + 31585 ) * 1.(15*4) 
   category: Medium
   group: Security
-  access: Security
+  access: Brigmedic
   shuttlePath: /Maps/_WF/Shuttles/Cgp/Cross.yml  
   guidebookPage: ShipyardCross
   class:  
@@ -19,10 +19,10 @@
 - type: gameMap  
   id: Cross  
   mapName: 'AAA Shipname'  
-  mapPath: /Maps/_WF/Shuttles/Civilian/shipname.yml  
+  mapPath: /Maps/_WF/Shuttles/Cgp/cross.yml  
   minPlayers: 0  
   stations:  
-    Shipname: Cross 
+    Cross: 
       stationProto: StandardFrontierSecurityVessel  
       components:  
       - type: StationNameSetup  
