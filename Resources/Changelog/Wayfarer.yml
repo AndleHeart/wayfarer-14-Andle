@@ -6415,3 +6415,10 @@ Entries:
   id: 7231
   time: '2026-09-07T02:37:59.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1498
+- author: sacafe
+  changes:
+    - type: Tweak
+      message: recorder range
+  id: 7232
+  time: '2026-09-07T03:10:27.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1559
