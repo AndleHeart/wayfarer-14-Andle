@@ -6347,3 +6347,10 @@ Entries:
   id: 7226
   time: '2026-09-07T01:47:19.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1520
+- author: Cat-With-A-Computer
+  changes:
+    - type: Fix
+      message: CGP Large Thrusters now scale properly with upgraded parts
+  id: 7227
+  time: '2026-09-07T01:49:28.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1521
