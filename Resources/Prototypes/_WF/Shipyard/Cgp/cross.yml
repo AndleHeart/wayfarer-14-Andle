@@ -11,14 +11,14 @@
   guidebookPage: ShipyardCross
   class:  
   - Medical
-  - Support 
+  - Patrol
   engine:  
   - Plasma 
   - APU 
   
 - type: gameMap  
   id: Cross  
-  mapName: 'AAA Shipname'  
+  mapName: 'ATL Cross'  
   mapPath: /Maps/_WF/Shuttles/Cgp/cross.yml  
   minPlayers: 0  
   stations:  
