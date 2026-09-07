@@ -1,2 +1,2 @@
-﻿# BAM guidebook Ship entries
-guide-entry-shipyard-uniform = Cross
+﻿# ATL guidebook Ship entries
+guide-entry-shipyard-cross = Cross
