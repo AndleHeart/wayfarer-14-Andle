@@ -3,7 +3,7 @@
   parent: BaseVessel  
   name: ATL Cross  
   description: A top of the line rapid-response medical vessel custom designed for Corpsman's duties. With cryogenics and an integrated medbay, this vessel is especially designed for rapid response duties.
-  price: 73500 # (287*50 + 31585 ) * 1.(15*4) 
+  price: 64500 # (261*50 + 27213) * 1.(15*4) 
   category: Medium
   group: Security
   access: Brigmedic
