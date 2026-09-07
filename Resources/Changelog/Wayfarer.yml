@@ -6361,3 +6361,40 @@ Entries:
   id: 7228
   time: '2026-09-07T01:54:17.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1525
+- author: AndleHeart
+  changes:
+    - type: Tweak
+      message: Perdition has received an overhaul.
+    - type: Add
+      message: Syndicate Shipyard Console to Perdition.
+    - type: Add
+      message: Contravend to Perdition Armory.
+    - type: Add
+      message: Outlaw Techfab to Perdition Armory.
+    - type: Add
+      message: Janitorial to Perdition.
+    - type: Add
+      message: Brig to Perdition.
+    - type: Tweak
+      message: Perdition medbay overhauled.
+    - type: Tweak
+      message: Perdition power network adjusted.
+    - type: Add
+      message: Morgue to Perdition.
+    - type: Add
+      message: Chembay to Perdition.
+    - type: Add
+      message: Oxygen and Nitrogen gas miners to Perdition.
+    - type: Tweak
+      message: Perdition atmospherics redone.
+    - type: Tweak
+      message: Perdition docking bay's expanded.
+    - type: Tweak
+      message: Perdition bar expanded.
+    - type: Remove
+      message: Pirate Hideout from Perdition maintenance.
+    - type: Remove
+      message: Blood Cult cell from Perdition maintenance.
+  id: 7229
+  time: '2026-09-07T01:58:27.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1555
