@@ -6354,3 +6354,10 @@ Entries:
   id: 7227
   time: '2026-09-07T01:49:28.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1521
+- author: Khaomi
+  changes:
+    - type: Add
+      message: Added some missing localization for Shadekin's Core
+  id: 7228
+  time: '2026-09-07T01:54:17.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1525
