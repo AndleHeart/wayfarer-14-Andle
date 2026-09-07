@@ -6340,3 +6340,10 @@ Entries:
   id: 7225
   time: '2026-09-07T01:41:18.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1519
+- author: Cat-With-A-Computer
+  changes:
+    - type: Add
+      message: Ghost role night vision
+  id: 7226
+  time: '2026-09-07T01:47:19.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1520
