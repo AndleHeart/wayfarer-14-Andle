@@ -6326,3 +6326,10 @@ Entries:
   id: 7223
   time: '2026-09-07T01:34:31.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1516
+- author: Cat-With-A-Computer
+  changes:
+    - type: Tweak
+      message: Shadekin night vision doesn't turn off when exposed to light
+  id: 7224
+  time: '2026-09-07T01:38:15.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1518
