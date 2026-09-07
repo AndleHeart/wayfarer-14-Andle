@@ -6333,3 +6333,10 @@ Entries:
   id: 7224
   time: '2026-09-07T01:38:15.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1518
+- author: Cat-With-A-Computer
+  changes:
+    - type: Fix
+      message: Shadekin now properly receive roleplay incentive
+  id: 7225
+  time: '2026-09-07T01:41:18.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1519
