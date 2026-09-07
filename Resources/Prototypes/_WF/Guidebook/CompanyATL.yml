@@ -1,5 +1,5 @@
 ﻿- type: guideEntry
-  id: ShipyardUniform
+  id: ShipyardCross
   name: guide-entry-shipyard-cross
   text: "/ServerInfo/_WF/Guidebook/Shipyard/CgpShipyard/Cross.xml"
 
