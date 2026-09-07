@@ -6398,3 +6398,13 @@ Entries:
   id: 7229
   time: '2026-09-07T01:58:27.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1555
+- author: Hawk-v3
+  changes:
+    - type: Add
+      message: >-
+        Added CGP and Outlaw wall-mounted repositories with names aiming for a
+        move away from uplinks. These have not yet been mapped, and there are no
+        loadout/round start changes.
+  id: 7230
+  time: '2026-09-07T02:01:35.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1556
