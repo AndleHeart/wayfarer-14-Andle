@@ -7,7 +7,7 @@
   category: Medium
   group: Security
   access: Brigmedic
-  shuttlePath: /Maps/_WF/Shuttles/Cgp/Cross.yml  
+  shuttlePath: /Maps/_WF/Shuttles/Cgp/cross.yml  
   guidebookPage: ShipyardCross
   class:  
   - Medical
