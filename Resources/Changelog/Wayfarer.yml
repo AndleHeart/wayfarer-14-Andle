@@ -6317,3 +6317,12 @@ Entries:
   id: 7222
   time: '2026-09-03T23:47:37.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1517
+- author: Goodfaun
+  changes:
+    - type: Tweak
+      message: >-
+        Cargotokens, Telecrystals, Zekke credit, Data chit can fit in wallet
+        now... again.
+  id: 7223
+  time: '2026-09-07T01:34:31.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1516
